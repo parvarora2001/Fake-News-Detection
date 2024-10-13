@@ -28,4 +28,5 @@ The project explores several machine learning models to detect fake news:
 2) Naive Bayes
 3) Random Forest
 4) Support Vector Machine (SVM)
+
 The final model is selected based on its performance on validation data, and it can be further fine-tuned for better results.
